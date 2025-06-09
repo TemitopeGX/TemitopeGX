@@ -31,6 +31,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-0078D7?style=flat&logo=coreldraw&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **Streaming Tools:**  
 ![OBS Studio](https://img.shields.io/badge/-OBS_Studio-302E31?style=flat&logo=obs-studio&logoColor=white)
